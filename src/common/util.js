@@ -492,7 +492,7 @@ function printString(raw, options, isDirectiveLiteral) {
     const numPreferredQuotes = (rawContent.match(preferred.regex) || []).length;
     const numAlternateQuotes = (rawContent.match(alternate.regex) || []).length;
 
-    shouldUseAlternateQuote = numPreferredQuotes > numAlternateQuotes;
+//     shouldUseAlternateQuote = numPreferredQuotes > numAlternateQuotes;
   } else {
     canChangeDirectiveQuotes = true;
   }
