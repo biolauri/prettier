@@ -1,3 +1,7 @@
+***Note: This fork will no longer be maintained!***
+
+---
+
 ![Prettier Banner](https://raw.githubusercontent.com/prettier/prettier-logo/master/images/prettier-banner-light.png)
 
 <h2 align="center">Opinionated Code Formatter</h2>
